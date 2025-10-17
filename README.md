@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 📈 GitHub Stats
+
+![SeemWind's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeemWind&show_icons=true&hide_title=true)
